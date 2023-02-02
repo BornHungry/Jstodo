@@ -1,0 +1,24 @@
+#write{
+    list-style: none;
+    
+}
+#write>li{
+    padding: 8px;
+    width: 490px;
+    width: 100%;
+    text-align: left;
+    background-color: #ff757540;
+}
+#write>li>.buton1{
+    float: right;
+    background-color: #009432;
+    width: 70px;
+    height: 40px;
+}
+#write>li>.buton2{
+    float: right;
+    background-color: red;
+    width: 70px;
+    height: 40px;
+    border: none;
+}
